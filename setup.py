@@ -7,10 +7,5 @@ setuptools.setup(
     author_email="mselias97@gmail.com",
     description="A function that returns 'world'",
     url="https://github.com/elmarsan/python_world_elmarsan",
-    packages=setuptools.find_packages(),
-    classifiers=[
-        "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT License",
-        "Operating System :: OS Independent",
-    ]
+    packages=setuptools.find_packages()
 )
