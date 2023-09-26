@@ -1,2 +1,2 @@
 def world():
-	return "Hello from my python package! maaster branch"
+    return "Python+go pkgs"
